@@ -1,4 +1,4 @@
-- Proceso de Configuración
+Proceso de Configuración
 - Primero se crea un repositorio.
 - Después se coloca en nombre y se lo pone público.
 - Entramos al repositor y le damos click en el archivo README.md
